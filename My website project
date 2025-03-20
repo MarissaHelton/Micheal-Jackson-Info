@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Michael Jackson, the &quot;King of Pop,&quot; was a legendary artist known for Thriller and the moonwalk, shaping music and pop culture.">
+    <link rel="stylesheet" href="style.css">
+    <title>Michael Jackson: An American Icon</title>
+</head>
+
+<body>
+    <header>
+        <h1>Michael Jackson</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="career.html">Career</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <img src="Michael_Jackson.webp" alt="michael jackson smiling">
+        <p>
+            Michael Jackson rose to fame as a child prodigy in the Jackson 5, captivating audiences with his talent.
+            Transitioning to a solo career, he became a global star with groundbreaking albums like *Off the Wall* and
+            *Thriller*.
+        </p>
+
+        <p>
+            <q>Michael Jackson is an icon</q> - Marissa Helton
+        </p>
+
+        <section>
+            <h2>Early Life</h2>
+            <p>Michael Jackson was born in 1958 in Gary, Indiana. He showed an early interest in music and began performing
+                at a young age, influenced by his family's musical background. Growing up in a strict household, his
+                father, Joe Jackson, pushed him and his siblings to perform. By age 5, Michael was already singing and
+                performing, and by 6, he became the lead singer of the Jackson 5, the group formed with his brothers.</p>
+        </section>
+
+        <section id="career">
+            <h2>Jackson 5</h2>
+            <p>Michael Jackson joined the <strong>Jackson 5</strong> in 1964, alongside his brothers. As the lead singer, he
+                gained fame for his impressive voice and stage presence. The group signed with Motown Records in 1968,
+                releasing hits like:</p>
+
+            <!-- Unordered List for Songs -->
+            <ul>
+                <li>"I Want You Back"</li>
+                <li>"ABC"</li>
+                <li>"I'll Be There"</li>
+                <li>"Dancing Machine"</li>
+            </ul>
+
+            <p>Their success made them one of the most popular acts of the 1970s. Michael's talent and charisma began to
+                shine, setting the stage for his future solo career.</p>
+        </section>
+
+        <section>
+            <h2>Top Albums</h2>
+            <!-- Ordered List for Albums -->
+            <ol>
+                <li>Off the Wall (1979)</li>
+                <li>Thriller (1982)</li>
+                <li>Bad (1987)</li>
+                <li>Dangerous (1991)</li>
+                <li>HIStory: Past, Present and Future, Book I (1995)</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Major Achievements</h2>
+            <!-- Unordered List for Achievements -->
+            <ul>
+                <li>Most awarded artist in history</li>
+                <li>First artist to have a #1 hit in four different decades</li>
+                <li>Thriller remains the best-selling album of all time</li>
+                <li>Inducted into the Rock and Roll Hall of Fame twice</li>
+            </ul>
+        </section>
+
+        <section>
+            <!-- Highlighted Important Info -->
+            <p class="important-info">
+                Michael Jackson remains one of the most influential artists in history. His contributions to music, dance,
+                and pop culture are unmatched.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; Marissa Helton 2025</p>
+    </footer>
+</body>
+
+</html>
+
+
